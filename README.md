@@ -10,7 +10,7 @@
 #### Output example:
 Download: ![tsne_bokeh_toy_output.html](https://github.com/tomervazana/TSNE-Bokeh-on-a-toy-image-dataset/blob/main/tsne_bokeh_toy_output.html)
 <br>Quick png visualization of the output on mouse hover:
-![Output Example](images/Screenshot from 2025-06-04 16-58-59.png)
+![Output Example](images/Screenshot_from_2025-06-04_16-58-59.png)
 
 <!--
 TODO: 
