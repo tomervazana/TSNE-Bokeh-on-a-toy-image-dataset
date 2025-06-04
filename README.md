@@ -8,8 +8,8 @@
 - Import the plot to sharable interactive and HTML file if output_path is specified
 
 #### Output example:
-Download: ![tsne_bokeh_toy_output.html](https://github.com/tomervazana/TSNE-Bokeh-on-a-toy-image-dataset/blob/main/tsne_bokeh_toy_output.html)
-<br>Quick png visualization of the output on mouse hover:
+- **Recommended**, Try it yourself, download the html file from: ![tsne_bokeh_toy_output.html](https://github.com/tomervazana/TSNE-Bokeh-on-a-toy-image-dataset/blob/main/tsne_bokeh_toy_output.html)
+- Or, *Lazy & Quick* option, png visualization of the output on mouse hover:
 ![Output Example](images/Screenshot_from_2025-06-04_16-58-59.png)
 
 <!--
