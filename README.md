@@ -7,6 +7,18 @@
 - Provide a nice starting point to clean TSNE pipleline, just edit the configuration cells below to change dataset and parametes
 - Import the plot to sharable interactive and HTML file if output_path is specified
 
+#### Output example:
+Download: ![tsne_bokeh_toy_output.html](https://github.com/tomervazana/TSNE-Bokeh-on-a-toy-image-dataset/blob/main/tsne_bokeh_toy_output.html)
+<br>Quick png visualization of the output on mouse hover:
+![Output Example](images/Screenshot from 2025-06-04 16-58-59.png)
+
+<!--
+TODO: 
+#### Fully Interactive Version  
+Click the badge below to step into the real-time dashboard with all interactive tooling enabled:  
+[![Open Interactive Dashboard](https://img.shields.io/badge/Open-Interactive%20Bokeh-blue)](https://<your-username>.github.io/<your-repo>/interactive_daily_sales.html)
+-->
+
 #### Requirements: (04.06.25)
 - Python 3.12.10
 - Python libraries, as written in requirements.txt:
